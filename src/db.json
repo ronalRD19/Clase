@@ -1,0 +1,41 @@
+{
+    "equiposFutbol":[
+     
+        {
+            "id":1,
+            "nombre":"SantaFe",
+            "titulos":10,
+            "ciudad": "Bogota"
+        },
+        {
+            "id":2,
+            "nombre":"Nacional",
+            "titulos":12,
+            "ciudad": "Medellin"
+        },
+        {
+            "id":3,
+            "nombre":"America",
+            "titulos":18,
+            "ciudad": "Cali"
+        },
+        {
+            "id":4,
+            "nombre":"Millonarios",
+            "titulos":16,
+            "ciudad": "Bogotá"
+        },
+        {
+            "id":5,
+            "nombre":"IndMedellin",
+            "titulos":6,
+            "ciudad": "Medellin"
+        },
+        {
+            "id":6,
+            "nombre":"Cali",
+            "titulos":11,
+            "ciudad": "Cali"
+        }
+]
+}
